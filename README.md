@@ -1,2 +1,3 @@
 # hello-world
-Just another repositoruy
+Just another repository
+awesome is 3some
